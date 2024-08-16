@@ -1,8 +1,13 @@
 body{
     color :black;
-    background: red;
+    background: red(204, 187, 187)
+
+    margin: Opx;
 }
 
+
 header{
-    border: solid 2px red;
+    border-bottom: solid 2px red;
+
+    margin: 20px;
 }
