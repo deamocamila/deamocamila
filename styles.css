@@ -13,3 +13,16 @@ header{
     font-size: 32px;
     color: bluevit;
 }
+
+section{
+    background-color: aquamarine;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content: center;
+
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
