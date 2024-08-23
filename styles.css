@@ -1,7 +1,7 @@
 body{
     color :black;
-    background: red(204, 187, 187)
-
+    background: red(204, 187, 187);
+    font-family: "Moderustic", sans-serif;
     margin: Opx;
 }
 
