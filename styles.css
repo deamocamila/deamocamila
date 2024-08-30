@@ -2,7 +2,7 @@ body{
     color :black;
     background: red(204, 187, 187);
     font-family: "Moderustic", sans-serif;
-    margin: Opx;
+    margin: 0px;
     margin-bottom: 100px;
 }
 
@@ -12,7 +12,7 @@ header{
 
     padding: 20px;
     font-size: 32px;
-    color: bluevit;
+    color: blueviolet;
 }
 
 .chamada{
